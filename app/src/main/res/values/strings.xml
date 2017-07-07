@@ -1,0 +1,9 @@
+<resources>
+    <string name ="app_name">SQLite </string >
+     <string name ="title_activity_main"> MainActivity </string >
+     <string name ="add">Adicionar </string>
+     <string name ="no_notes">Nenhuma anotação </string >
+     <string name ="write_a_note">Escreva uma anotação </string >
+     <string name ="save">Salvar </string >
+
+</resources>
